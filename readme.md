@@ -2,7 +2,7 @@
 
 Github repo for documenting and exploring a mystery microcontroller PCB I found in a junk pile. Age is early 1990's at a guess.
 
-Based on the HD64180 (Zilog Z180) with 8k ROM and 8K RAM and a serial port, this mystery board deserves some exploration!
+Based on the hitachi HD64180 (https://en.wikipedia.org/wiki/Hitachi_HD64180, the precursor to the Zilog Z180 CPU) with 8k ROM, 8K RAM and a serial port, this mystery board deserves some exploration!
 
 ROM Dumps don't appear to contain any useful text such as a copyright statement or manufacturer name. Unit is unlabelled. found in Adleiade, south austrlia, so most likely designed and built in Australia.
 
